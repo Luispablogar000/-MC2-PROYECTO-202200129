@@ -1,0 +1,30 @@
+# Instrucciones para Ejecutar el Archivo de Jupyter Notebook
+
+Este archivo de Jupyter Notebook contiene una investigación sobre algoritmos de búsqueda en árboles y notación polaca en el campo de la ciencia de la computación. A continuación, se describen los pasos para ejecutar y utilizar este archivo:
+
+## Requisitos Previos
+
+Asegúrate de tener Python y Jupyter Notebook instalados en tu sistema. Si aún no los tienes, puedes instalarlos siguiendo estos pasos:
+
+1. Instala Python: Descarga Python desde el sitio web oficial (https://www.python.org/downloads/) e instálalo en tu sistema.
+
+2. Instala Jupyter Notebook: Abre tu línea de comandos o terminal y ejecuta el siguiente comando para instalar Jupyter Notebook:
+   
+
+## Ejecución del Archivo
+
+Sigue estos pasos para ejecutar el archivo de Jupyter Notebook:
+
+1. Abre una línea de comandos o terminal.
+
+2. Navega al directorio donde se encuentra tu archivo de Jupyter Notebook. Puedes usar el comando `cd` para cambiar de directorio.
+
+3. Ejecuta Jupyter Notebook: Ingresa el siguiente comando y presiona Enter:
+
+
+4. Se abrirá una interfaz web en tu navegador predeterminado con una lista de archivos. Busca y haz clic en el archivo de Jupyter Notebook que deseas ejecutar (por ejemplo, "Proyecto.ipynb").
+
+5. El archivo se abrirá en una nueva pestaña. Puedes navegar y ejecutar las celdas de código en el archivo haciendo clic en ellas y presionando `Shift + Enter`.
+
+
+
